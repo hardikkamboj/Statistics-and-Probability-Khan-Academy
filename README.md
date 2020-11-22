@@ -8,4 +8,5 @@ Notes for [statistics and probabilty course](https://www.khanacademy.org/math/st
 - [Modelling Data Distribution](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/4.%20Modelling%20Data%20Distribution.pdf)
 - [Exploring Bivariate Numerical Data](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/5.%20Explore%20Bivariate%20Numerical%20Data.pdf)
 - [Study Design](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/6.%20Study%20Design.pdf)
+- [Probability](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/7.%20probability.pdf)
 
