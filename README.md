@@ -11,3 +11,4 @@ Notes for [statistics and probabilty course](https://www.khanacademy.org/math/st
 - [Probability](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/7.%20probability.pdf)
 - [Counting, Permutations & Combinations](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/8.%20Counting%2C%20Permutations%20and%20combination.pdf)
 - [Random Variables](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/9.%20Random%20Variables.pdf)
+- [Sampling distributions](https://github.com/hardikkamboj/Statistics-and-Probability-Khan-Academy/blob/main/10.%20Sampling%20distribution.pdf)
